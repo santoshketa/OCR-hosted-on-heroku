@@ -1,0 +1,7 @@
+pytesseract
+FastAPI==0.62.0
+numpy
+starlette==0.13.6
+pydantic
+regex
+opencv-python
